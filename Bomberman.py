@@ -1,4 +1,4 @@
-import pygame
+import pygame HOLA
 import os
 import sys
 import time
